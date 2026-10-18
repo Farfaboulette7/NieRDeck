@@ -1,0 +1,11 @@
+{
+  "name": "NieR UI",
+  "author": "Votre Nom",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["theme", "ui", "nier"],
+    "description": "Interface inspirée du menu de NieR:Automata.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/decky-plugin-template"
+  }
+}
